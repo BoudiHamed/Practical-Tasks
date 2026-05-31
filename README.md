@@ -17,11 +17,4 @@ Tools Used
 *   Vanilla JavaScript (ES6)
 *   LocalStorage API
 
- How to Run
 
-
-
- Contact
-
-Abdelrahman Hamed
-Junior Full-Stack Developer
